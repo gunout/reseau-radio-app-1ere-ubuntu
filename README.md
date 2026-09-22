@@ -36,6 +36,15 @@
 
 Interface sombre, visualiseur audio animé, contrôles repliables, popup de liens vers les sites territoriaux : tout est pensé pour une expérience fluide et discrète.
 
+
+<img width="450" height="70" alt="1ERE" src="https://github.com/user-attachments/assets/f12e7fe3-0230-4a59-99d9-111118d40f75" />
+
+<img width="450" height="420" alt="1ERE 1" src="https://github.com/user-attachments/assets/f54fc522-09e1-4488-97d6-06c2b5d8ae8d" />
+
+<img width="450" height="420" alt="1ERE 3" src="https://github.com/user-attachments/assets/6e8f956f-9186-4073-9969-b46012249627" />
+
+<img width="380" height="460" alt="1ERE 4" src="https://github.com/user-attachments/assets/aceaba77-57fb-4d9c-b7ef-e2ddc4256502" />
+
 ---
 
 ## 🎯 Fonctionnalités
